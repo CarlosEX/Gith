@@ -25,7 +25,7 @@ source ~/scripts_shell/gith/functions/color_function.sh
 source ~/scripts_shell/gith/functions/dialog_function.sh
 source ~/scripts_shell/gith/functions/symbols_unicode_functions.sh
 source ~/scripts_shell/gith/functions/commit_function.sh
-source ~/scripts_shell/gith/functions/projects_json.sh
+source ~/scripts_shell/gith/functions/json_functionn.sh
 
 #----------------------[ váriáveis globais ]-----------------------
 
